@@ -25,7 +25,7 @@
 <a href="https://instagram.com/mr.sakariya_99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.sakariya_99" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/code_hunter9904" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="code_hunter9904" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user7650rb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="user7650rb" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/code.hunter9904" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="code.hunter9904" height="30" width="40" /></a>
+<a href=https://www.hackerearth.com/@code.hunter9904" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="code.hunter9904" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/codehunterin/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="codehunterin/profile" height="30" width="40" /></a>
 </p>
 
