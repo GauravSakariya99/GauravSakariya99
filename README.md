@@ -4,7 +4,6 @@
 <h3 align="center">A passionate Learner from Gujarat,India</h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codehunter9904&label=Profile%20views&color=0e75b6&style=flat" alt="codehunter9904" /></p>
-<img src="https://twitter.com/GauravSakariya4/header_photo">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codehunter9904" alt="codehunter9904" /></a> </p>
 
