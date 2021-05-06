@@ -7,7 +7,7 @@
 <p align="center"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQG8gpqSMBrjRA/profile-displaybackgroundimage-shrink_350_1400/0/1618742952427?e=1624492800&v=beta&t=QJ9KUoGkwho-ol6TqSsKnn3WcLQgh19peC_101zdDOE" align="center"/></p><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codehunter9904" alt="codehunter9904" /></a> </p>
 
-- 🔭 I’m currently trying to **Become a good Programer And Full Stack Devloper**
+- 🔭 I’m currently trying to **Become a good Programer And Learner**
 
 - 🌱 I’m currently learning **Adobe Tools**
 
