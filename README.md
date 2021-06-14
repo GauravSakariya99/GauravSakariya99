@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Gaurav 'CoDe HuNTeR' Sakariya</h1>
-<h3 align="center">A passionate Learner from Gujarat,India</h3><br>
+<h3 align="center">A passionate Learner from Rajkot, Gujarat, India</h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codehunter9904&label=Profile%20views&color=0e75b6&style=flat" alt="codehunter9904" /></p>
 <p align="center"><img src="https://media-exp1.licdn.com/dms/image/C4D16AQG8gpqSMBrjRA/profile-displaybackgroundimage-shrink_350_1400/0/1618742952427?e=1624492800&v=beta&t=QJ9KUoGkwho-ol6TqSsKnn3WcLQgh19peC_101zdDOE" align="center"/></p><br>
