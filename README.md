@@ -1,5 +1,5 @@
-<h1 align="center">Hello , My Name Is Gaurav Sakariya</h1>
-<h3 align="center">A passionate Learner from Rajkot, Gujarat, India </h3><br>
+<h1 align="center">Hey There, Gaurav Here 🙋‍♂️</h1>
+<h3 align="center">A Passionate Learner</h3><br>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=codehunter9904&label=Profile%20views&color=0e75b6&style=flat" alt="codehunter9904" /></p> -->
 <p align="center"><img src="https://github.com/GauravSakariya99/GauravSakariya99/blob/main/Bannar.png" align="center"/></p><br>
