@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gauravsakariya4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gauravsakariya4" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaurav-sakariya-7354051b2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaurav-sakariya-7354051b2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gauravsakariya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaurav-sakariya" height="30" width="40" /></a>
 <a href="https://fb.com/mr.sakariya.99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mr.sakariya.99" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.sakariya_99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.sakariya_99" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Killjoy_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="code_hunter9904" height="30" width="40" /></a>
