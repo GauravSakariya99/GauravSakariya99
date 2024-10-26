@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GauravSakariya99](https://github.com/GauravSakariya99)
 
-- 💬 Ask me about **Html,Css,C,C++,Java,Python**
+- 💬 Ask me about **Java, Python, Node.js, AWS, Terraform, Next.js, React.js, **
 
 - 📫 How to reach me **gauravsakariya9999@gmail.com**
 
